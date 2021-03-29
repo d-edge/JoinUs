@@ -1,10 +1,10 @@
 # Join us!
 
-Information about development job opportunities and career at [D-EDGE](https://d-edge.com). If you would like to know more about D-EDGE, what we use, how we work etc, have a look at [About D-EDGE](#about-d-edge) section. We also have a [Blog](https://developers.d-edge.com), [Twitter](https://twitter.com/DedgeDevs) and [Facebook](https://www.facebook.com/DedgeDevs/) with latest news about events, technical topics and life of devs at D-EDGE.
+Information about development job opportunities and career at [D-EDGE](https://d-edge.com). If you would like to know more about D-EDGE, what we use, how we work etc, have a look at [About D-EDGE](#about-d-edge) section.
 
 Would you like to meet us? Hear us talk or check if we're coming to your area? Check out our [Meetup](https://www.meetup.com/D-EDGE-tech/) for the events we organize. Recordings of our past talks can be found on our [YouTube](https://www.youtube.com/watch?v=lcuTJYw-jsw&list=PLychnrjxWBViBfk5V68i6tVZDM5UhNhBB) channel.
 
-**You can always reach us at [`softwarecraft@d-edge.com`](mailto: softwarecraft@d-edge.com).**
+**You can always reach us [by mail](mailto:softwarecraft@d-edge.com).**
 
 ## 💻 Open positions
 
@@ -51,8 +51,16 @@ In addition to **business skills and a strong technical culture, having a "minds
 ## 🏨 Product
 
 * [Central Reservation System](https://www.d-edge.com/product_family/central-reservation-system/): Interconnected or “à la carte”, cloud-based solutions to maximise the global distribution strategy of hotels
-* [Connectivity Hub](https://www.d-edge.com/product_family/connectivity/): Connecting your hotel to a powerful ecosystem
-* [Data Intelligence](https://www.d-edge.com/product_family/data-intelligence/): Take the right decisions and stay ahead of your competitors.
-* [Digital Media](https://www.d-edge.com/product_family/digital-media/): Customized media plans to advertize your hotel brand to qualified travelers and build up cost-effective direct bookings
-* [Website Creation](https://www.d-edge.com/product_family/website-creation/): Intuitive, responsive, and conversion-driven websites to develop your hotel's direct bookings and maximise cost-efficient sales
-* [Guest Management](https://www.d-edge.com/product_family/guest-management/): Get a full picture of your guests, personalise their experience and take the right actions.
+* [Connectivity Hub](https://www.d-edge.com/product_family/connectivity/): Connecting hotels to a powerful ecosystem
+* [Data Intelligence](https://www.d-edge.com/product_family/data-intelligence/): Take the right decisions and stay ahead of competitors.
+* [Digital Media](https://www.d-edge.com/product_family/digital-media/): Customized media plans to advertize hotel brand to qualified travelers and build up cost-effective direct bookings
+* [Website Creation](https://www.d-edge.com/product_family/website-creation/): Intuitive, responsive, and conversion-driven websites to develop hotel's direct bookings and maximise cost-efficient sales
+* [Guest Management](https://www.d-edge.com/product_family/guest-management/): Get a full picture of guests, personalise their experience and take the right actions.
+
+## 🎓 Students
+
+- **Is it possible to work for D-EDGE while studying?** Yes, we have some students in the team. We treat students just like any other employees (part-time), which means they're working on real projects, in product teams with other developers and getting market salary.
+
+## ✈️ Remote
+
+- **Do you allow remote working?** Yes.
