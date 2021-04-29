@@ -10,8 +10,8 @@ Would you like to meet us? Hear us talk or check if we're coming to your area? C
 
 Currently, we are seeking highly experienced people for multiple positions in France (Paris, Bordeaux, Nantes) and Spain (Barcelona), including:
 
-* Fullstack Software Engineers - .NET (M/F)
-* Back-end Software Enginners - .NET (M/F)
+* Fullstack Software Engineers, .NET/ReactJS (M/F)
+* Back-end Software Enginners, .NET (M/F)
 * QA Engineers (M/F) 
 * Team Leads (M/F)
 * Product Managers (M/F)
@@ -53,7 +53,7 @@ Our goal is to design and develop the best possible products. Our R&D (100 peopl
 
 We are at the heart of an ecosystem of several hundred partners with whom **we develop and maintain connectivity via API.**
 
-We continue to maintain **a “startup” spirit with autonomous SCRUM teams (3 to 8 people)** involving software engineers, product managers and business analysts, focused on a product theme, and with extended freedom of innovation and experimentation.
+We continue to maintain **a "startup" spirit with autonomous SCRUM teams (3 to 8 people)** involving software engineers, product managers and business analysts, focused on a product theme, and with extended freedom of innovation and experimentation.
 Development teams benefit the support of transverse teams dedicated to UX/UI, QA, IT/Infrastructure, L2 Support or cross-product project management.
 
 **Our technical environment is very rich**: distributed architecture of web services and applications on Service Bus, high performance, reliability and security constraints: we need people with autonomy, initiative, and adaptability.
@@ -69,8 +69,8 @@ Development teams benefit the support of transverse teams dedicated to UX/UI, QA
 
 ## 🎓 Students
 
-- **Is it possible to work for D-EDGE while studying?** Yes, we have some students in the team. We treat students just like any other employees (part-time), which means they're working on real projects, in product teams with other developers and getting market salary.
+- **Is it possible to work for D-EDGE while studying?** Yes, we have some students in the team. We treat students just like any other employees, which means they're working on real projects, in product teams with other developers and getting market salary.
 
 ## ✈️ Remote
 
-- **Do you allow remote working?** Yes.
+- **Do you allow remote working?** Yes, D-EDGE is "Remote friendly", meaning that employees may work part-time from home. We usually like to meet IRL at least every two weeks for our SCRUM meetings.
