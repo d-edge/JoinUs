@@ -4,29 +4,28 @@ Information about development job opportunities and career at [D-EDGE](https://d
 
 Would you like to meet us? Hear us talk or check if we're coming to your area? Check out our [Meetup](https://www.meetup.com/D-EDGE-tech/) for the events we organize. Recordings of our past talks can be found on our [YouTube](https://www.youtube.com/watch?v=lcuTJYw-jsw&list=PLychnrjxWBViBfk5V68i6tVZDM5UhNhBB) channel.
 
-**You can always reach us [by mail](mailto:softwarecraft@d-edge.com).**
+**You can also reach us [by e-mail](mailto:softwarecraft@d-edge.com).**
 
 ## 💻 Open positions
 
-Currently, we are seeking highly experienced people for the following positions:
+Currently, we are seeking highly experienced people for multiple positions in France (Paris, Bordeaux, Nantes) and Spain (Barcelona), including:
 
-* [Salesforce Developer (H/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/developpeur-salesforce-junior-h-f_paris_DHS_g7ebw23)
-* [Senior QA Engineer (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/qa-engineer-senior-h-f_paris)
-* [Senior Software Engineer .NET (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/back-end-developer-net-c_paris)
-* [Team Lead .net (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/team-lead-net-h-f_paris)
-* [Senior Software Engineer (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/senior-software-engineer-m-f_barcelona)
-* [Back-end Software Engineer (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/back-end-developper-net-c-f-h-f_paris)
-* [Technical Writer (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/technical-writer-m-f_paris)
-* [Business Analyst (M/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/business-analyst-m-f_paris)
-* [Product Manager -Booking Engines (H/F)](https://d-edge.welcomekit.co/companies/d-egde-hospitality-solutions/jobs/product-manager-payment-systems-h-f_paris_DHS_DbJK7JM)
+* Fullstack Software Engineers - .NET (M/F)
+* Back-end Software Enginners - .NET (M/F)
+* QA Engineers (M/F) 
+* Team Leads (M/F)
+* Product Managers (M/F)
+* Business Analysts (M/F)
+
+Check our [Welcome to the Jungle page](https://www.welcometothejungle.com/fr/companies/d-egde-hospitality-solutions/jobs) to get more details about open positions.
 
 ## 📚 About D-EDGE
 
-D-EDGE is a **SaaS company** offering **leading-edge cloud-based e-commerce solutions** to **more than 12,000 hotels in over 100 countries**.
+D-EDGE is a **SaaS company** offering **industry-leading cloud-based e-commerce solutions** to **more than 12,000 hotels in over 100 countries**.
 
-Combining **technical excellence** with **digital marketing expertise**, D-EDGE brings a **holistic hospitality technology infrastructure under one roof**. The integrated range of solutions covers all stages of hotel distribution which encompasses Central Reservation System, Guest Management, Data Intelligence, Connectivity Hub, Digital Media and Website Creation.
+Combining **technical excellence** with **digital marketing expertise**, D-EDGE brings together a **complete technology infrastructure under one brand**. The integrated range of solutions covers all stages of hotel distribution and encompasses Central Reservation System (CRS), Guest Management, Data Intelligence, Connectivity Hub, Digital Media and Website Creation.
 
-With a team of **350 experts located in over 20 countries**, D-EDGE provides localised support, services and tools. With its global network of 500+partners, D-EDGE’s ever-expanding ecosystem is a positive place to do business and grow.
+With a team of **350 experts located in over 20 countries**, D-EDGE provides localized support, services and tools. With its global network of 500+ partners, D-EDGE’s ever-expanding ecosystem is a positive place to do business and grow.
 
 At D-EDGE, we are looking for **curious and involved people who want to innovate and disrupt the rapidly changing hotel market**, people with a passion for digital and "Hotel Technology", ready to **solve complex problems and design innovative applications**, joining an agile and "bottom-up" structure where everyone is in charge.
 
@@ -48,7 +47,18 @@ In addition to **business skills and a strong technical culture, having a "minds
 * D-EDGE is "Remote Friendly",
 * CSE: Sports and cultural activities, gift cards and various discounts.
 
-## 🏨 Product
+## 🧪 Tech at D-EDGE
+
+Our goal is to design and develop the best possible products. Our R&D (100 people mainly based in Paris, Barcelona, Bordeaux and Nantes) has developed a **culture in which agility and teamwork are at the service of innovation and excellence.**
+
+We are at the heart of an ecosystem of several hundred partners with whom **we develop and maintain connectivity via API.**
+
+We continue to maintain **a “startup” spirit with autonomous SCRUM teams (3 to 8 people)** involving software engineers, product managers and business analysts, focused on a product theme, and with extended freedom of innovation and experimentation.
+Development teams benefit the support of transverse teams dedicated to UX/UI, QA, IT/Infrastructure, L2 Support or cross-product project management.
+
+**Our technical environment is very rich**: distributed architecture of web services and applications on Service Bus, high performance, reliability and security constraints: we need people with autonomy, initiative, and adaptability.
+
+## 🏨 Products
 
 * [Central Reservation System](https://www.d-edge.com/product_family/central-reservation-system/): Interconnected or “à la carte”, cloud-based solutions to maximise the global distribution strategy of hotels
 * [Connectivity Hub](https://www.d-edge.com/product_family/connectivity/): Connecting hotels to a powerful ecosystem
