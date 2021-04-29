@@ -43,7 +43,7 @@ In addition to **business skills and a strong technical culture, having a "minds
 * Profit sharing,
 * Holiday bonus,
 * Individual access to the Udemy e-learning platform (more than 100,000 online courses),
-* Qare service: online medical consultations,
+* Qare: online medical consultations whose cost is supported by D-EDGE,
 * D-EDGE is "Remote Friendly",
 * CSE: Sports and cultural activities, gift cards and various discounts.
 
