@@ -1,10 +1,11 @@
 # Meetup
 
-## D-EDGE Tech Meetup #1 (in French) 
+## D-EDGE Tech Meetup #1 (in French)
 
-[![thumbnail](thumbnails/1.png)](https://www.youtube.com/watch?v=lcuTJYw-jsw)
-
-<!-- <a href="https://www.youtube.com/watch?v=lcuTJYw-jsw"><img src="https://img.youtube.com/vi/lcuTJYw-jsw/maxresdefault.jpg" width = "259" height="194"></a> -->
+<p align="center">
+    <img src="thumbnails/1.png" alt="#1 meetup" height="360"/><br/>
+    <a href="https://www.youtube.com/watch?v=lcuTJYw-jsw">Watch it on <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+</p>
 
 ### Functional CSS or the CSS without the Cascade
 
@@ -22,6 +23,7 @@ In recent years, functional programming has become more and more popular. Let's 
 * A little of history
 * MVU pattern
 * SAFE Stack in practice
+
 
 ## D-EDGE Tech Meetup #2 - Remote onboarding of developers
 
