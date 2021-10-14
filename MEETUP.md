@@ -1,6 +1,6 @@
 # Meetup
 
-## D EDGE Tech Meetup #1 - Functional CSS or the CSS without the Cascade (in French)
+## D-EDGE Tech Meetup #1 - Functional CSS or the CSS without the Cascade (in French)
 
 [![thumbnail](thumbnails/1.png)](https://www.youtube.com/watch?v=lcuTJYw-jsw)
 
@@ -17,7 +17,7 @@ In recent years, functional programming has become more and more popular. Let's 
 * MVU pattern
 * SAFE Stack in practice
 
-## D EDGE Tech Meetup #2 - Remote onboarding of developers
+## D-EDGE Tech Meetup #2 - Remote onboarding of developers
 
 [![thumbnail](thumbnails/2.png)](https://www.youtube.com/watch?v=IZNDQ83DrTY)
 
