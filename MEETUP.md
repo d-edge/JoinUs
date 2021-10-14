@@ -2,7 +2,7 @@
 
 ## D EDGE Tech Meetup #1 - Functional CSS or the CSS without the Cascade (in French)
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/1.png)](https://www.youtube.com/watch?v=lcuTJYw-jsw)
+[![thumbnail](thumbnails/1.png)](https://www.youtube.com/watch?v=lcuTJYw-jsw)
 
 <!-- <a href="https://www.youtube.com/watch?v=lcuTJYw-jsw"><img src="https://img.youtube.com/vi/lcuTJYw-jsw/maxresdefault.jpg" width = "259" height="194"></a> -->
 
@@ -19,7 +19,7 @@ In recent years, functional programming has become more and more popular. Let's 
 
 ## D EDGE Tech Meetup #2 - Remote onboarding of developers
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/2.png)](https://www.youtube.com/watch?v=IZNDQ83DrTY)
+[![thumbnail](thumbnails/2.png)](https://www.youtube.com/watch?v=IZNDQ83DrTY)
 
 <!-- <a href="https://www.youtube.com/watch?v=IZNDQ83DrTY"><img src="https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/2.png" width = "259" height="194"></a> -->
 
@@ -32,7 +32,7 @@ During this Meetup, Aurelien will address:
 
 ## D-EDGE Tech Meetup #3 - Making Mobile App Development simple with F# and Fabulous
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/3.png)](https://www.youtube.com/watch?v=CNoaHtYFNw8)
+[![thumbnail](thumbnails/3.png)](https://www.youtube.com/watch?v=CNoaHtYFNw8)
 
 <!-- <a href="https://www.youtube.com/watch?v=CNoaHtYFNw8"><img src="https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/3.png" width = "259" height="194"></a> -->
 
@@ -43,7 +43,7 @@ No longer worry about the growth in the size of your apps. Fabulous ensures that
 
 ## D-EDGE Tech Meetup #4 - A personal guide to Stack Overflow (in French)
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/4.png)](https://www.youtube.com/watch?v=y1EFsgDBEus)
+[![thumbnail](thumbnails/4.png)](https://www.youtube.com/watch?v=y1EFsgDBEus)
 
 <!-- <a href="https://www.youtube.com/watch?v=y1EFsgDBEus"><img src="https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/4.png" width = "259" height="194"></a> -->
 
@@ -58,7 +58,7 @@ No specific experience of Stack Overflow is required and, all the programmers ar
 
 ## D-EDGE Tech Meetup #5 - Integrating shiny new stack into legacy code
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/5.png)](https://www.youtube.com/watch?v=akNGA5mIJN8)
+[![thumbnail](thumbnails/5.png)](https://www.youtube.com/watch?v=akNGA5mIJN8)
 
 <!-- <a href="https://www.youtube.com/watch?v=akNGA5mIJN8"><img src="https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/5.png" width = "259" height="194"></a> -->
 
@@ -78,7 +78,7 @@ Monads are all the rage in FP land, but Applicatives, despite lack of love can h
 
 ## D-EDGE Tech Meetup #7 - Remote: the new normal in post-pandemic times
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/7.png)](https://www.youtube.com/watch?v=Bzg0ZVeIh6Y)
+[![thumbnail](thumbnails/7.png)](https://www.youtube.com/watch?v=Bzg0ZVeIh6Y)
 
 It's been over a year of full remote work for us at D-EDGE. One day we were at the office, and the next we were all working from home. We've all experienced the situation, shifting from excitement to nostalgia and back.
 But with everything we've set up, before and during this pandemic, the after is going to be game-changing! Are you ready for a new beginning of remote working?
@@ -92,7 +92,7 @@ We'll share tips that you can start implementing at your company
 
 ## D-EDGE Meetup #8 - Splitting the view and the brains in JS — state machines with XState (in French)
 
-[![thumbnail](https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/8.png)](https://www.youtube.com/watch?v=yRB57CDvQuY)
+[![thumbnail](thumbnails/8.png)](https://www.youtube.com/watch?v=yRB57CDvQuY)
 
 <!-- <a href="https://www.youtube.com/watch?v=yRB57CDvQuY"><img src="https://github.com/shreyadenny/JoinUs/blob/main/thumbnails/8.png" width = "259" height="194"></a> -->
 
