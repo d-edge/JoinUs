@@ -1,3 +1,9 @@
+<br>
+<p align="center">
+    <img src="d-edge.svg" alt="d-edge logo" height="140">
+</p>
+<br>
+
 # Join us!
 
 Information about development job opportunities and career at [D-EDGE](https://d-edge.com). If you would like to know more about D-EDGE, what we use, how we work etc, have a look at [About D-EDGE](#about-d-edge) section.
