@@ -1,0 +1,14 @@
+stages:
+  - run
+
+run:
+  stage: run
+  tags:
+    - windows-16
+  allow_failure: true
+  script:
+    - docker run --rm -v "$(pwd):c:\joinus" -w c:\joinus mcr.microsoft.com/dotnet/framework/sdk:4.8 automation\UpdateMEETUP.cmd
+    - git config --global user.email "noreply@d-edge.com"
+    - git config --global user.name "d-edge automation"
+    - git commit -a -m "Update MEETUP.md"
+    - git push -o ci.skip "https://gitlab-ci-token:$PROJECT_ACCESS_TOKEN@$CI_SERVER_HOST/$CI_PROJECT_PATH.git" HEAD:main

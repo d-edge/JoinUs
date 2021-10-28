@@ -1,0 +1,1 @@
+dotnet fsi automation\PlaylistAsMD.fsx > MEETUP.md
