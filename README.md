@@ -8,7 +8,7 @@
 
 Information about development job opportunities and career at [D-EDGE](https://d-edge.com). If you would like to know more about D-EDGE, what we use, how we work etc, have a look at [About D-EDGE](#about-d-edge) section.
 
-Would you like to meet us? Hear us talk or check if we're coming to your area? Check out our [Meetup](https://www.meetup.com/D-EDGE-tech/) for the events we organize. Recordings of our past talks can be found on our [YouTube](https://www.youtube.com/watch?v=lcuTJYw-jsw&list=PLychnrjxWBViBfk5V68i6tVZDM5UhNhBB) channel.
+Would you like to meet us? Hear us talk or check if we're coming to your area? Check out our [Meetup](https://www.meetup.com/D-EDGE-tech/) for the events we organize and also the recordings of our [past talks](MEETUP.md).
 
 **You can also reach us [by e-mail](mailto:softwarecraft@d-edge.com).**
 
