@@ -1,5 +1,17 @@
 # D-EDGE tech meetups
 
+## D-EDGE Tech Meetup #10 - Docker, CI/CD and Kubernetes: A real-world example
+
+[![thumbnail](https://i1.ytimg.com/vi/8N4srFqsvJI/hqdefault.jpg)](https://www.youtube.com/watch?v=8N4srFqsvJI)
+
+Docker, docker-compose, CI/CD, Kubernetes are some of the new tools and concepts popular in back-end development these days.
+Tons of online resources are available to use the tools individually.
+
+But how to make them work together?
+
+In this D-EDGE Tech Meetup, David will show you how to get the most out of these tools together with a concrete example from his daily work.
+All developers are welcome (junior and senior), mainly back-end developers.
+
 ## D-EDGE Tech Meetup #9 - SCRUM is a product management framework (and not a project management tool)
 
 [![thumbnail](https://i4.ytimg.com/vi/s1rLEOBhS_4/hqdefault.jpg)](https://www.youtube.com/watch?v=s1rLEOBhS_4)
