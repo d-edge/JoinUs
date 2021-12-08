@@ -1,5 +1,20 @@
 # D-EDGE tech meetups
 
+## D-EDGE Meetup #11 - Gamification: the Good, the Bad, and the COVID (an open discussion in French)
+
+[![thumbnail](https://i1.ytimg.com/vi/06HIy-8L_gM/hqdefault.jpg)](https://www.youtube.com/watch?v=06HIy-8L_gM)
+
+La gamification dans une entreprise SaaS - table ronde
+
+D-EDGE organise un Hackathon interne sur le thème de la Gamification. Comme ce sujet est loin de notre activité quotidienne et que les pièges sont nombreux, nous avons décidé d'ouvrir la discussion lors d'un Meetup. Rejoignez Alois, Arthur, Aurélien et Simone pour une table ronde sur ce sujet sensible !
+
+Tout le monde pourra poser une question ou participer !
+Cependant, nous prévoyons d'aborder au moins ces questions :
+- Quels sont les éléments clés de la gamification ?
+- La gamification doit-elle rimer avec manipulation ?
+- A faire et à ne pas faire, exemples et suggestions
+- Qui peut bénéficier de la gamification ?
+
 ## D-EDGE Tech Meetup #10 - Docker, CI/CD and Kubernetes: A real-world example
 
 [![thumbnail](https://i1.ytimg.com/vi/8N4srFqsvJI/hqdefault.jpg)](https://www.youtube.com/watch?v=8N4srFqsvJI)
