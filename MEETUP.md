@@ -1,5 +1,13 @@
 # D-EDGE tech meetups
 
+## Meetup #12 - #NOMEMALLOC
+
+[![thumbnail](https://i2.ytimg.com/vi/eVJ5b1lwMJ8/hqdefault.jpg)](https://www.youtube.com/watch?v=eVJ5b1lwMJ8)
+
+Functional languages have a bad reputation of allocating memory like crazy. But F#, built on .Net core, has many constructs to write code that make no allocation, as we could do in C or Rust. We'll explore Span 't , Memory 't , IsByRefLike in a F# idiomatic and functional way by writing a simple Video decoder that makes #NoMemAlloc.
+
+This Meetup is aimed at developers with a good level in C# or F# (.Net developers) who want to work on the performance of their apps.
+
 ## D-EDGE Meetup #11 - Gamification: the Good, the Bad, and the COVID (an open discussion in French)
 
 [![thumbnail](https://i1.ytimg.com/vi/06HIy-8L_gM/hqdefault.jpg)](https://www.youtube.com/watch?v=06HIy-8L_gM)
