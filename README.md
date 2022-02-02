@@ -23,7 +23,7 @@ Currently, we are seeking highly experienced people for multiple positions in Fr
 * Product Managers (M/F)
 * Business Analysts (M/F)
 
-Check our [Welcome to the Jungle page](https://www.welcometothejungle.com/fr/companies/d-egde-hospitality-solutions/jobs) to get more details about open positions.
+Check our [Lever page](https://jobs.lever.co/d-edge?team=R%26D) to get more details about open positions.
 
 ## 📚 About D-EDGE
 
@@ -52,6 +52,9 @@ In addition to **business skills and a strong technical culture, having a "minds
 * Qare: online medical consultations whose cost is supported by D-EDGE,
 * D-EDGE is "Remote Friendly",
 * CSE: Sports and cultural activities, gift cards and various discounts.
+
+
+Check our [Welcome to the Jungle page](https://www.welcometothejungle.com/fr/companies/d-egde-hospitality-solutions/jobs) to get more details about us.
 
 ## 🧪 Tech at D-EDGE
 
