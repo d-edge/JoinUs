@@ -27,7 +27,7 @@ Check our [Welcome to the Jungle page](https://www.welcometothejungle.com/fr/com
 
 ## 📚 About D-EDGE
 
-D-EDGE is a **SaaS company** offering **industry-leading cloud-based e-commerce solutions** to **more than 12,000 hotels in over 100 countries**.
+D-EDGE is a **SaaS company** offering **industry-leading cloud-based e-commerce solutions** to **more than 17,000 hotels in over 100 countries**.
 
 Combining **technical excellence** with **digital marketing expertise**, D-EDGE brings together a **complete technology infrastructure under one brand**. The integrated range of solutions covers all stages of hotel distribution and encompasses Central Reservation System (CRS), Guest Management, Data Intelligence, Connectivity Hub, Digital Media and Website Creation.
 
