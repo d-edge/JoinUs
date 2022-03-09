@@ -1,6 +1,22 @@
 # D-EDGE tech meetups
 
-## Meetup #12 - #NOMEMALLOC
+## Tech Meetup #13 - Observability vs traditional monitoring: the reasons why you need OpenTelemetry
+
+[![thumbnail](https://i4.ytimg.com/vi/Sm9W0Mm8jqA/hqdefault.jpg)](https://www.youtube.com/watch?v=Sm9W0Mm8jqA)
+
+With increasingly complex systems and use cases traversing multiple services and systems, traditional logging is no longer sufficient to understand everything that is happening in a system and, more importantly, to debug a problem in that system.
+This is where OpenTelemetry comes in and offers an easy way to instrument your codebase for data collection and make adjustments as the organization grows.
+
+In this Meetup, Santiago will show you how you can debug almost anything thanks to OpenTelemetry:
+
+* Observability vs traditional monitoring
+* Why observability
+* Where does OTel fit into this?
+* OTel example on dotnet
+
+All developers are welcome to attend. No specific language or background is required.
+
+## D-EDGE Tech Meetup #12 - #NOMEMALLOC
 
 [![thumbnail](https://i2.ytimg.com/vi/eVJ5b1lwMJ8/hqdefault.jpg)](https://www.youtube.com/watch?v=eVJ5b1lwMJ8)
 
@@ -8,7 +24,7 @@
 
 This Meetup is aimed at developers with a good level in C# or F# (.Net developers) who want to work on the performance of their apps.
 
-## D-EDGE Meetup #11 - Gamification: the Good, the Bad, and the COVID (an open discussion in French)
+## Tech Meetup #11 - Gamification: the Good, the Bad, and the COVID (an open discussion in French)
 
 [![thumbnail](https://i1.ytimg.com/vi/06HIy-8L_gM/hqdefault.jpg)](https://www.youtube.com/watch?v=06HIy-8L_gM)
 
