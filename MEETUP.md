@@ -1,5 +1,11 @@
 # D-EDGE tech meetups
 
+## Panel - Long term impact of architectural design decision
+
+[![thumbnail](https://i2.ytimg.com/vi/A_ixD5EHk6k/hqdefault.jpg)](https://www.youtube.com/watch?v=A_ixD5EHk6k)
+
+
+
 ## Tech Meetup #13 - Observability vs traditional monitoring: the reasons why you need OpenTelemetry
 
 [![thumbnail](https://i4.ytimg.com/vi/Sm9W0Mm8jqA/hqdefault.jpg)](https://www.youtube.com/watch?v=Sm9W0Mm8jqA)
@@ -148,23 +154,6 @@ During this Meetup, Aurelien will address:
 - How remote onboarding of developers is organised
 - How new developers live this experience, through several feedbacks
 - But also, how can tech helps in this process be it with tools, best practices, and agility that facilitate remote teamwork and management.
-
-Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
-
-## D-EDGE Tech Meetup #1 -  Functional CSS or the CSS without the Cascade (in French)
-
-[![thumbnail](https://i1.ytimg.com/vi/lcuTJYw-jsw/hqdefault.jpg)](https://www.youtube.com/watch?v=lcuTJYw-jsw)
-
-Functional CSS is the practice of using small, immutable and explicitly named utility classes to construct components. During this one-hour meet up (in French), let's figure out how applying the functional paradigm to CSS will help us manage the growth of our codebase.
-Together, we will see:
-* What is CSS?
-* What is Functional CSS?
-* How can I use it?
-
-In recent years, functional programming has become more and more popular. Let's look at one of the best approaches to develop a UI application in the functional paradigm:
-* A little of history
-* MVU pattern
-* SAFE Stack in practice
 
 Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 
