@@ -1,5 +1,17 @@
 # D-EDGE tech meetups
 
+## D-EDGE Tech Meetup #14 - Ergonomics - improve your workspace & preserve your health
+
+[![thumbnail](https://i4.ytimg.com/vi/CR2Sw6hz5Mc/hqdefault.jpg)](https://www.youtube.com/watch?v=CR2Sw6hz5Mc)
+
+Today, we can work from almost anywhere: home, the office, a shack by the beach, or a chalet in the mountains for some lucky ones... But is our work setup sustainable and healthy? Do you sometimes feel tired or uncomfortable after a day sitting at your desk?
+
+As we spend most of our working hours - and some free time - in front of a computer, ergonomics is key.
+
+In this meetup, Benoît will review the concerns related to our workspace (sitting position, screens, input devices, ...) and give you his tips to create a good working environment and preserve your health.
+
+Everyone is welcome to attend this meetup. There is no specific background required.
+
 ## Panel - Long term impact of architectural design decision
 
 [![thumbnail](https://i2.ytimg.com/vi/A_ixD5EHk6k/hqdefault.jpg)](https://www.youtube.com/watch?v=A_ixD5EHk6k)
@@ -143,18 +155,5 @@ No longer worry about the growth in the size of your apps. Fabulous ensures that
 
 Fabulous is an open-source framework available on GitHub: https://github.com/fsprojects/Fabulous
 It is built on top of .NET and Xamarin.Forms, letting you benefit from all of the existing ecosystems.
-
-## D-EDGE Tech Meetup #2 - Remote onboarding of developers
-
-[![thumbnail](https://i2.ytimg.com/vi/IZNDQ83DrTY/hqdefault.jpg)](https://www.youtube.com/watch?v=IZNDQ83DrTY)
-
-We all know someone who arrived in a company during the lockdown. While this was an exceptional situation in most locations, the home office is now becoming the new normal. In a growing tech company that needs new resources on a regular basis, it was essential to rethink the onboarding of new developers. During this Meetup, we will see what they can expect when they join a new structure without even setting foot in it...
-
-During this Meetup, Aurelien will address:
-- How remote onboarding of developers is organised
-- How new developers live this experience, through several feedbacks
-- But also, how can tech helps in this process be it with tools, best practices, and agility that facilitate remote teamwork and management.
-
-Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 
 
