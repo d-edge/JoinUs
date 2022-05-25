@@ -144,16 +144,4 @@ No specific experience of Stack Overflow is required and, all the programmers ar
 
 Join the next Meetups: https://www.meetup.com/D-EDGE-tech/
 
-## D-EDGE Tech Meetup #3 - Making Mobile App Development simple with F# and Fabulous
-
-[![thumbnail](https://i4.ytimg.com/vi/CNoaHtYFNw8/hqdefault.jpg)](https://www.youtube.com/watch?v=CNoaHtYFNw8)
-
-Conquer the world with clean dynamic UIs!
-In this talk dedicated to developers with our without F# knowledge, Timothé Larivière will show you a new way of writing your mobile apps using Fabulous.
-By combining the power of functional programming and the Model-View-Update architecture, building reliable and maintainable apps have never been easier and as fast.
-No longer worry about the growth in the size of your apps. Fabulous ensures that your code remains easy to read and understand, greatly simplifying the work of your team.
-
-Fabulous is an open-source framework available on GitHub: https://github.com/fsprojects/Fabulous
-It is built on top of .NET and Xamarin.Forms, letting you benefit from all of the existing ecosystems.
-
 
