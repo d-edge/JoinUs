@@ -1,5 +1,15 @@
 # D-EDGE tech meetups
 
+## Tech a break meetup by D-EDGE #15 - Gender inequality in tech
+
+[![thumbnail](https://i1.ytimg.com/vi/tvlF-yLxgos/hqdefault.jpg)](https://www.youtube.com/watch?v=tvlF-yLxgos)
+
+Did you know that originally women dominated the Tech field? Did you know why women are often paid less than men for doing the same work?
+
+In the next tech a break meetup by D-EDGE, Suchitra and Rindra, Tech Engineers at D-EDGE will talk about gender inequality in tech. They will discuss their experiences (and yours) of being a woman in a tech environment, take stock of the situation and their ideas for overcoming the inequality in tech.
+
+Everyone is welcome to attend this meetup
+
 ## D-EDGE Tech Meetup #14 - Ergonomics - improve your workspace & preserve your health
 
 [![thumbnail](https://i4.ytimg.com/vi/CR2Sw6hz5Mc/hqdefault.jpg)](https://www.youtube.com/watch?v=CR2Sw6hz5Mc)
@@ -128,20 +138,5 @@ Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 * one way he has found to integrate a new shiny web stack into an old-fashioned one
 
 Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
-
-## D-EDGE Tech Meetup #4 - A personal guide to Stack Overflow (in French)
-
-[![thumbnail](https://i2.ytimg.com/vi/y1EFsgDBEus/hqdefault.jpg)](https://www.youtube.com/watch?v=y1EFsgDBEus)
-
-As aspiring Software Craftsmen, we are raising the bar of professional software development by practising it and helping others learn the craft. One of the resources developers use the most is Stack Overflow. SO is a Q&A website for programmers. We often use it silently though, like a database. We lurk and copy/paste answers without contributing directly to it.
-
-With Alois, you'll see how to leverage this resource to improve your day-to-day work:
-- how does Stack Overflow work?
-- how to post a question?
-- how to answer a question?
-Alois will mostly talk about his own experience on Stack Overflow as a user, contributor and moderator.
-No specific experience of Stack Overflow is required and, all the programmers are welcome whatever your main language is and whatever your experience is.
-
-Join the next Meetups: https://www.meetup.com/D-EDGE-tech/
 
 
