@@ -139,4 +139,19 @@ Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 
 Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 
+## D-EDGE Tech Meetup #4 - A personal guide to Stack Overflow (in French)
+
+[![thumbnail](https://i2.ytimg.com/vi/y1EFsgDBEus/hqdefault.jpg)](https://www.youtube.com/watch?v=y1EFsgDBEus)
+
+As aspiring Software Craftsmen, we are raising the bar of professional software development by practising it and helping others learn the craft. One of the resources developers use the most is Stack Overflow. SO is a Q&A website for programmers. We often use it silently though, like a database. We lurk and copy/paste answers without contributing directly to it.
+
+With Alois, you'll see how to leverage this resource to improve your day-to-day work:
+- how does Stack Overflow work?
+- how to post a question?
+- how to answer a question?
+Alois will mostly talk about his own experience on Stack Overflow as a user, contributor and moderator.
+No specific experience of Stack Overflow is required and, all the programmers are welcome whatever your main language is and whatever your experience is.
+
+Join the next Meetups: https://www.meetup.com/D-EDGE-tech/
+
 
