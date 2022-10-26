@@ -1,5 +1,23 @@
 # D-EDGE tech meetups
 
+## Tech a break Meetup by D-EDGE #16 - Data mining applied to Microservices performance
+
+[![thumbnail](https://i3.ytimg.com/vi/NiMSGlIZMQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=NiMSGlIZMQ4)
+
+While Microservices architecture leverages crucial advantages like Scaling Up or improved fault tolerance, it also introduces increased communication, debugging and testing complexity.
+Microservices Observability is crucial for understanding how apps are functioning, identifying and preventing performance bottlenecks in advance. In many use cases, Distributed Systems process inputs and produce some kind of output.
+It turns out that your system may become slower depending on the nature of the input data.
+How can you detect what kind of data produces bottlenecks?
+How can you prevent system failures by predicting performance disasters?
+
+Let’s discuss this topic and see how some basic Data Science techniques can help you to better understand your system weaknesses end to end.
+
+Whether you are interested in Microservices Architecture from the very big picture, or you’re curious about data mining and data visualisation applied to software engineering performance analysis, this meetup will be interesting for you.
+No coding experience is required!
+
+About Fernando Contreras
+Fernando is a software engineer at D-EDGE Hospitality Solutions. He enjoys working on challenging projects where performance is key to business success. He graduated with a Computer Science bachelor's followed by a Master's degree in Software Engineering but has followed a self-taught and online learning path in Data Science and Machine Learning. He’s very enthusiastic about knowledge sharing and this is why he also has a blog where he writes tech articles about new technologies and programming best practices: https://www.nandocontreras.net/
+
 ## Tech a break meetup by D-EDGE #15 - Gender inequality in tech
 
 [![thumbnail](https://i1.ytimg.com/vi/tvlF-yLxgos/hqdefault.jpg)](https://www.youtube.com/watch?v=tvlF-yLxgos)
@@ -138,20 +156,5 @@ Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
 * one way he has found to integrate a new shiny web stack into an old-fashioned one
 
 Join our Meetup group: https://www.meetup.com/fr-FR/D-EDGE-tech/
-
-## D-EDGE Tech Meetup #4 - A personal guide to Stack Overflow (in French)
-
-[![thumbnail](https://i2.ytimg.com/vi/y1EFsgDBEus/hqdefault.jpg)](https://www.youtube.com/watch?v=y1EFsgDBEus)
-
-As aspiring Software Craftsmen, we are raising the bar of professional software development by practising it and helping others learn the craft. One of the resources developers use the most is Stack Overflow. SO is a Q&A website for programmers. We often use it silently though, like a database. We lurk and copy/paste answers without contributing directly to it.
-
-With Alois, you'll see how to leverage this resource to improve your day-to-day work:
-- how does Stack Overflow work?
-- how to post a question?
-- how to answer a question?
-Alois will mostly talk about his own experience on Stack Overflow as a user, contributor and moderator.
-No specific experience of Stack Overflow is required and, all the programmers are welcome whatever your main language is and whatever your experience is.
-
-Join the next Meetups: https://www.meetup.com/D-EDGE-tech/
 
 
